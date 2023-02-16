@@ -51,19 +51,8 @@ En la siguiente tabla enumere un conjunto de clases de equivalencia que -según 
 
 
 
-Numero
-Clase de equivalencia (en lenguaje natural o matemático).
-Resultado correcto /
-incorrecto.
-1
-edad 18 < x < 85
-Correcto
-2
-días > 0
-Correcto
-3
- valor > 0
-Correcto
+![image](https://user-images.githubusercontent.com/123691538/219264443-a32f239e-5ec2-478d-af9e-493d9d4066c7.png)
+
 
 
 
