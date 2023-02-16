@@ -49,9 +49,8 @@ En la siguiente tabla enumere un conjunto de clases de equivalencia que -según 
 
 
 
+![image](https://user-images.githubusercontent.com/123691538/219264742-ea35478a-4779-4c89-8f4c-f2c63e2faed1.png)
 
-
-![image](https://user-images.githubusercontent.com/123691538/219264636-4721337f-3463-45f3-b61b-606d4c3a3ba3.png)
 
 
 
