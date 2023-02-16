@@ -51,7 +51,7 @@ En la siguiente tabla enumere un conjunto de clases de equivalencia que -según 
 
 
 
-![image](https://user-images.githubusercontent.com/123691538/219264443-a32f239e-5ec2-478d-af9e-493d9d4066c7.png)
+![image](https://user-images.githubusercontent.com/123691538/219264636-4721337f-3463-45f3-b61b-606d4c3a3ba3.png)
 
 
 
