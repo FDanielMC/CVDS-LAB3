@@ -21,20 +21,8 @@ public long calculoTarifa(long tarifaBase, int diasAntelacion, int edad)
 De acuerdo con lo indicado, y teniendo en cuenta que NO hay precondiciones, en qué casos se debería arrojar una excepción de tipo ExcepcionParametrosInvalidos?. Agregue esto a la especificación.
 	
 	
-Clase de equivalencia|
-|-|-|-|
-|Resultado|
-|edad < 0|
-|Error edad negativa|
-|edad > 100|
-|Error edad muy grande|
-|días < 0|
-|Error dias negativos|
-|valor < 0|
-|Error valor base negativo|
-|dias =  números decimales|
-|Error dia decimal|
-|-|-|-|
+![image](https://user-images.githubusercontent.com/123691538/219264082-ca16ce81-9f6e-4ee0-a32a-c0c3dcfcead0.png)
+
 
 
 
