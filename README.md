@@ -34,6 +34,7 @@ Clase de equivalencia|
 |Error valor base negativo|
 |dias =  números decimales|
 |Error dia decimal|
+|-|-|-|
 
 
 
